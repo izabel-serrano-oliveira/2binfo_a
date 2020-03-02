@@ -1,2 +1,2 @@
 # 2binfo_a
-eepositório para atividades da Etec Basilides
+Repositório para atividades da Etec Basilides
